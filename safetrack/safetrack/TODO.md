@@ -1,0 +1,12 @@
+- [x] Criar componente ProtectedRoute.jsx
+- [x] Atualizar routes.jsx para usar ProtectedRoute nas rotas admin
+- [x] Corrigir botão "Voltar" em adicionarLocal.jsx
+- [x] Ajustar navegação após enviar pedido em adicionarLocal.jsx
+- [x] Criar página separada adicionarLocalAdmin.jsx para admins
+- [x] Limpar adicionarLocal.jsx para usuários apenas
+- [x] Corrigir navegação em adicionarLocal.jsx para sempre voltar para '/'
+- [x] Adicionar listeners de storage para sincronização entre abas (removidos para permitir múltiplas contas)
+- [x] Atualizar ProtectedRoute para redirecionar admin de rotas de usuário
+- [x] Proteger rota /adicionar-local com ProtectedRoute
+- [x] Admin usa /adicionar-local-admin, usuário usa /adicionar-local
+- [ ] Testar navegação para admin e usuário
